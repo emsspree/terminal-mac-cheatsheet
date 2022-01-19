@@ -2,7 +2,9 @@
 
 speziell für `zsh` und `bash` in **Terminal**_.app_ und **iTerm**_.app_.
 
-Dieser Spickzettel (cheatsheet) ist in mehreren Sprachen verfügbar. / This cheatsheet is available in many languages. Sprache wählen / Select language:
+This cheatsheet is available in many languages. / Dieser Spickzettel ist in mehreren Sprachen verfügbar.
+
+Select language / Sprache wählen:
 
 - [English Version](#english-version)
 - [Deutsche Fassung](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/Deutsch)
@@ -19,7 +21,7 @@ Dieser Spickzettel (cheatsheet) ist in mehreren Sprachen verfügbar. / This chea
 - [中文版](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/中文)
 - [日本語](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/日本語)
 
-Da die Übersetzung von Freiwilligen abhängt, kann der Inhalt zwischen den verfügbaren Sprachen variieren. /  Since the translation rely on volunteers, the content between the available languages may vary.
+Da die Übersetzung von Freiwilligen abhängt, kann der Inhalt zwischen den verfügbaren Sprachen variieren. / Since the translation rely on volunteers, the content between the available languages may vary.
 
 ## Deutsche Fassung
 
